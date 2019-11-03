@@ -1,5 +1,4 @@
 # js-clock
 A clock made using JavaScript.
 
-![Lolcat clock](./assets/logo.png)
-Format: ![Alt Text](./assets/logo.png)
+[![screenshot.png](https://i.postimg.cc/bwpSjQcP/screenshot.png)](https://postimg.cc/tYv43n4v)
